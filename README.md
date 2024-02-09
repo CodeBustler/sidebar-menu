@@ -1,3 +1,5 @@
-# sidebarMenu
+# Sidebar Menu
+By using HTML, CSS & JavaScript
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/web-platform-dkmurl)
+## Live
+https://sidebar-menu-cb.netlify.app/
